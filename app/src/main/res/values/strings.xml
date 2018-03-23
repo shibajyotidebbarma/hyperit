@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">hyperit</string>
+    <string name="password_hint">Password...</string>
+    <string name="email_hint">Your Email...</string>
+    <string name="login_page_logo">Login Page Logo</string>
+    <string name="login_button">Login to Account</string>
+    <string name="register_button">Create a new Account</string>
+    <string name="login_register_button">Create a new Account</string>
+</resources>
