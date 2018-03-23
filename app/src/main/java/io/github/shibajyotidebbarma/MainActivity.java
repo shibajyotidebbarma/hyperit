@@ -27,9 +27,9 @@ public class MainActivity extends AppCompatActivity {
         if(currentUser == null){
 
 
-            Intent intent = new Intent(MainActivity.this, LoginActivity.class);
-            startActivity(intent);
-            finish(); // to restrict user from going back 
+            Intent loginIntent = new Intent(MainActivity.this, LoginActivity.class);
+            startActivity(loginIntent);
+            finish(); // to restrict user from going back
         }
 
 
